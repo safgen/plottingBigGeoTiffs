@@ -2,7 +2,7 @@
 Repo for plotting big GeoToiffs using RasterIO for file reading and GeoPandas and Contextily for maps and backgrounds
 
 
-If you find this code helpful, please cite the followinbg work as this repo was created to generate large scale maps for that study.
+If you find this code helpful, please cite the following work as this repo was created to generate large scale maps for that study.
 
 <p>@ARTICLE{10323532,<br>
   author={Zaheer, Sheir A. and Ryu, Youngryel and Lee, Junghee and Zhong, Zilong and Lee, Kyungdo},<br>
